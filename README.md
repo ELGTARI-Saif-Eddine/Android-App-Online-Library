@@ -4,10 +4,10 @@
 
 # _Android Application: My Library   (مكتبتي – مجموعة العقل زينة‎)_
 
-**Keywords:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase.  
+**KEYWORDS:** JAVA, Android Studio, Windows 10, HTML & CSS, Firebase.  
 
-## Description
-It is a simple library that contains a collection of books, easy to display. with a new presentation style.
+## Description:
+It is a simple library that contains a collection of books, easy to display. With a new presentation style.
 
 ### _Play store link:_
-[![](https://cldup.com/dTxpPi9lDf.thumb.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.maktebeti)
+[![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Online-Library/blob/main/images/goo.png)](https://play.google.com/store/apps/details?id=com.shadow.dev.maktebeti)
