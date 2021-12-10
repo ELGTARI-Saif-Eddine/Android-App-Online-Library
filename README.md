@@ -23,6 +23,5 @@ It is a simple library that contains a collection of books, easy to display. Wit
 ![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Online-Library/blob/main/images/unnamed4.png)
 ![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Online-Library/blob/main/images/unnamed5.png)
 ![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Online-Library/blob/main/images/unnamed6.png)
-![](https://github.com/ELGTARI-Saif-Eddine/Android-App-Online-Library/blob/main/images/unnamed7.png)
 
 
